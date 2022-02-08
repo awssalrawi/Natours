@@ -19,7 +19,7 @@ const viewRouter = require('./routes/viewRouter');
 //const { status } = require('express/lib/response');
 //const { nextTick } = require('process');
 //const { loadavg } = require('os');
-
+// Start express app
 const app = express();
 
 //!section 12
